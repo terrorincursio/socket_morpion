@@ -1,0 +1,21 @@
+-Projet(à retourner avant le 09 Décembre): -Transfert de fichier
+-Streaming audio
+-Jeux en réseaux()
+-SGBD
+-Serveur web
+-Navigateur web
+-Accès à distance
+-DHCP
+-Parc info
+
+Jeux en reseau:
+
+Prérequis:-Java socket
+-Utilisation de l'adresse IP de l'utilisateur comme port réseau
+
+type de jeu: à définir
+
+L'utilisateur doit pouvoir se connecter avec un autre ordinateur en réseau
+
+GitHub: Creer un compte GitHub et depositery(Sauvegarde du programme en cas de perte)
+operation clone intelligi
